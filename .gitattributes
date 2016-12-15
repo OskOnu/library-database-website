@@ -1,1 +1,1 @@
-linguist-language=MySQL
+*.rb linguist-language=Java
